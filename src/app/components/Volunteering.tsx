@@ -1,9 +1,9 @@
 import { motion } from "motion/react";
 import { Users, GraduationCap, Trophy, Heart, MapPin } from "lucide-react";
-import TSAImage from "../../assets/TSA.png";
+import TSAImage from "../../assets/TSA.PNG";
 import ViceImage from "../../assets/vice.JPG";
-import basketballImage from "../../assets/basketball.jpeg";
-import TAImage from "../../assets/TA.png";
+import basketballImage from "../../assets/basketball.JPEG";
+import TAImage from "../../assets/TA.PNG";
 
 const volunteers = [
   {
