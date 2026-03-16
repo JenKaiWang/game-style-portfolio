@@ -30,7 +30,7 @@ const projects = [
     title: "Iowa's First Congressional District Forecasting",
     date: "Sep 2024 - Dec 2024",
     desc: "Built an electoral forecasting pipeline for Iowa's 1st Congressional District using Census API demographics. Trained Random Forest and Keras/TensorFlow models for classification.",
-    link: "src/assets/Iowa.pdf",
+    link: `${import.meta.env.BASE_URL}Iowa-Project-Report.pdf.pdf`,
     tags: ["Python", "TensorFlow", "Data Science", "API"],
     color: "yellow"
   },
@@ -38,7 +38,7 @@ const projects = [
     title: "Healthcare Management System",
     date: "Jan 2024 - May 2024",
     desc: "Designed a relational Healthcare Management System covering doctors, patients, insurance, and pharmacy. Built a Python CLI for CRUD operations and analytics with robust error handling.",
-    link: "src/assets/HMS.pdf",
+    link: `${import.meta.env.BASE_URL}HMS-Report.pdf`,
     tags: ["Python", "SQL", "Database"],
     color: "pink"
   },
