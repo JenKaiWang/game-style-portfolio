@@ -74,7 +74,7 @@ export function Volunteering() {
             <Heart className="w-10 h-10 text-purple-500" fill="currentColor" />
           </div>
           <p className="text-slate-400 text-lg max-w-2xl mx-auto">
-            Giving back to the community and making an impact
+            Leadership experience and making an impact
           </p>
           <div className="w-32 h-1.5 bg-gradient-to-r from-pink-500 via-purple-500 to-cyan-500 mx-auto rounded-full mt-4" />
         </motion.div>
