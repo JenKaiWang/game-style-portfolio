@@ -127,12 +127,12 @@ export function Experience() {
                     whileHover={{ scale: 1.02 }}
                     className="bg-slate-900/60 backdrop-blur-sm p-6 rounded-2xl border-2 border-purple-500/30 group-hover:border-pink-500/50 transition-all duration-300 shadow-xl"
                   >
-                    <h3 className="pixel-font text-2xl font-bold bg-gradient-to-r from-pink-400 to-purple-400 bg-clip-text text-transparent mb-3">
+                    <h3 className="body-font text-2xl font-bold bg-gradient-to-r from-pink-400 to-purple-400 bg-clip-text text-transparent mb-3">
                       {exp.company}
                     </h3>
 
                     <div className={`flex flex-col gap-2 mb-4 ${index % 2 !== 0 ? 'md:items-end' : 'md:items-start'}`}>
-                      <span className="pixel-font flex items-center gap-2 text-pink-400">
+                      <span className="body-font flex items-center gap-2 text-pink-400">
                         <Briefcase className="w-4 h-4" /> {exp.role}
                       </span>
                       <span className="body-font flex items-center gap-2 text-slate-400">
