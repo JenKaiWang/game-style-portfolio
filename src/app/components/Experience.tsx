@@ -10,7 +10,7 @@ const experiences = [
   {
     company: "QQ Studio",
     role: "Game Developer Intern",
-    location: "Remote(USA)",
+    location: "Remote (USA)",
     date: "Feb 2026 – Present",
     description: [
       "Built gameplay systems, AI, and levels in Unreal Engine using C++ and Blueprints, while supporting asset integration and scene setup."
@@ -21,7 +21,7 @@ const experiences = [
   {
     company: "Aubot",
     role: "Software Engineer Intern",
-    location: "Remote(USA)",
+    location: "Remote (USA)",
     date: "Oct 2025 – Dec 2025",
     description: [
       "Reviewed 1,000+ C/C++ exercises, created technical solutions, and collaborated with a distributed team to maintain quality."
@@ -32,7 +32,7 @@ const experiences = [
   {
     company: "KINN Thai Eatery",
     role: "Software Engineer Intern",
-    location: "Remote(USA)",
+    location: "Remote (USA)",
     date: "Jul 2025 – Present",
     description: [
       "Launched an online reservation system in SimplyBook.me, handling setup, testing, and user documentation."
