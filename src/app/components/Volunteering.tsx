@@ -1,8 +1,8 @@
 import { motion } from "motion/react";
 import { Users, GraduationCap, Trophy, Heart, MapPin } from "lucide-react";
 import TSAImage from "../../assets/TSA.png";
-import ViceImage from "../../assets/vice.jpg";
-import BasketballImage from "../../assets/basketball.jpeg";
+import ViceImage from "../../assets/vice.JPG";
+import basketballImage from "../../assets/basketball.jpeg";
 import TAImage from "../../assets/TA.png";
 
 const volunteers = [
@@ -36,7 +36,7 @@ const volunteers = [
       "Achieved Top 32 in the National Computer Science Basketball Tournament and Top 4 in the university-wide departmental competition."
     ],
     icon: Trophy,
-    image: BasketballImage,
+    image: basketballImage,
     color: "from-yellow-500 to-orange-500"
   },
   {
