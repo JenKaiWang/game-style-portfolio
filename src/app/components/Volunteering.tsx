@@ -1,7 +1,7 @@
 import { motion } from "motion/react";
 import { Users, GraduationCap, Trophy, Heart, MapPin } from "lucide-react";
 import TSAImage from "../../assets/TSA.png";
-import ViceImage from "../../assets/vics.jpg";
+import ViceImage from "../../assets/vice.jpg";
 import BasketballImage from "../../assets/basketball.jpeg";
 import TAImage from "../../assets/TA.png";
 
