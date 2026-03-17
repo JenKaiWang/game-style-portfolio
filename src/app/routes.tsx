@@ -9,6 +9,6 @@ export const router = createBrowserRouter(
     },
   ],
   {
-    basename: "/game-style-portfolio/",
+    basename: "/Kevin-Wang-portfolio/",
   }
 );
